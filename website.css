@@ -1,0 +1,13 @@
+/* *{margin: 0;padding: 0;} */
+.main1{
+    height: 708px;
+    /* width: 100%; */
+    background-image: url(../Image/banner_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rgba{
+    height: 100%;
+    /* width: 100%; */
+    background-color: rgba(0,0,0,0.5);
+}
